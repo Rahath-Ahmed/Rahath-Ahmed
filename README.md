@@ -27,8 +27,7 @@
 ## 🧪 Research Experience
 **Undergraduate Research Assistant**  
 Dept. of Industrial and Production Engineering, SUST (Mar 2022 – Mar 2023)  
-- Researched springback in V-bending for multiple materials under various force and heat conditions.  
-- Journal publication accepted by *SUST Journal of Science and Technology*.
+- Researched springback in V-bending for multiple materials and examined how springback behaves under varying process parameters. (accepted for publication by *SUST Journal of Science and Technology*)
 
 ---
 
