@@ -2,7 +2,7 @@
 
 🎓 **BSc in Industrial and Production Engineering**  
 🏫 **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
-🔍 Passionate about solving real-world industrial problems using **Machine Learning**, **Advanced Manufacturing**, and **Data-Driven Decision Making**
+🔍 Passionate about **Machine Learning**, **Advanced Manufacturing**, **Additive Manufacturing**, and **Industrial AI Applications**
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 🛠 Technical Skills
 
-- **Languages & Tools**: Python, MATLAB, HTML, C (basic), Arena Simulation, AutoCAD (2D/3D), SolidWorks, Design Expert, MS Project  
-- **Software**: Excel (advanced), Word, PowerPoint  
-- **Frameworks & Libraries**: scikit-learn, NumPy, Pandas, Matplotlib
+- **Software Proficiency**: Arena Simulation, AutoCAD (2D/3D), SolidWorks, Design Expert
+- **Programming**: Python, HTML, C (basic), MATLAB 
+- **Other Tools**: MS Excel, Word, PowerPoint, Project
 
 ---
 
