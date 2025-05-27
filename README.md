@@ -37,8 +37,6 @@ Dept. of Industrial and Production Engineering, SUST (Mar 2022 – Mar 2023)
 - 🚖 **Auto-Rickshaw Station Simulation** – Modeled a transportation system using Arena simulation.  
 - 🧍 **Ergonomic Workstation Design** – Applied anthropometric principles and AutoCAD for optimal workstation setup.
 
-➡️ See my projects: [github.com/Rahath-Ahmed](https://github.com/Rahath-Ahmed)
-
 ---
 
 ## 🧾 Test Scores
