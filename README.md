@@ -2,7 +2,7 @@
 
 🎓 **Graduate in Industrial and Production Engineering**  
 📍 **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
-🧪 Passionate about **Machine Learning**, **Advanced Manufacturing**, and **Industrial AI Applications**
+🧪 Passionate about **Machine Learning**, **Advanced Manufacturing**, **Additive Manufacturing** and **Industrial AI Applications**
 
 ---
 
